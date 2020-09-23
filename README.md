@@ -14,3 +14,8 @@ Telegram bot IDs:
 SMTP
 * mail.ecg-ingenieria.mx > Engineering & Consulting #Mexico
 * mail.metauxsud.com > Metallurgy #France
+* mail.aquaclima.gr > e-Commerce #Greece
+* mail.augustianie.pl > Religion - Zakon Augustianow #Poland
+
+FTP
+* ftp.turblneservices.com > TSL Group Turbine Parts Industry #UnitedStates
